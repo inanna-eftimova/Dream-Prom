@@ -3,6 +3,7 @@
 🌇 Dream Prom is a Professional catalog Platform. Here we will provide you only interesting content, which you will like very much. We're dedicated to providing you the best of catalog, with a focus on dependability and offers. We're working to turn our passion for catalog into a booming. We hope you enjoy our catalog as much as we enjoy offering them to you.
 
 📌 It is a project for the Angular course in Software University.
+📌 Project is avaible on: https://inanna-eftimova.github.io/prom/
 
 ## Pages and permissions
 
